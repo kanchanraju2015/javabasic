@@ -1,0 +1,17 @@
+class exw
+{
+    int i=12;
+    void call()
+    {
+        System.out.println("i in call "+i);
+    }
+}
+class javaex2
+{
+    public static void main(String args[])
+    {
+        System.out.println("i in exw "+new exw().i);
+        new exw().call();
+        
+    }
+}
