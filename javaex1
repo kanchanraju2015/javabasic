@@ -6,5 +6,7 @@ public static void main(String args[])
 {
 javaex1 j=new javaex1();
 System.out.println("hello java");
+System.out.println("hello java change commit");
+
 }
 }
