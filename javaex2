@@ -12,6 +12,7 @@ class javaex2
     {
         System.out.println("i in exw "+new exw().i);
         new exw().call();
+        System.out.println("hello this javaex2.java is changed");
         
     }
 }
