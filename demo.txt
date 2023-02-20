@@ -3,3 +3,4 @@ this file is being changed for pull
 this is for merge conflict
 
 hello git u have changed.
+hello guys this is for pull understood.
